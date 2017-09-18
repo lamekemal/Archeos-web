@@ -1,0 +1,111 @@
+					
+					<!-- SEARCH FORM
+					<div id="search-form" class="pull-right">
+							<img src="images/pana.png"/>
+						<form method="get" action="#">
+							<input type="text" name="Search" value="Search" onFocus="if (this.value == 'Search') this.value = '';" onBlur="if (this.value == '') this.value = 'Search';" />
+						</form> 
+					</div>    -->
+					
+					<!-- MENU -->
+					
+					
+					
+					
+					
+					<!-- PAGE 
+									<a href="javascript:void(0);" >Pages</a>
+									<ul>
+										<li><a href="blog.html" >Blog</a></li>
+										<li><a href="blog-post.html" >Blog Post</a></li>
+										<li><a href="portfolio-post.html" >Portfolio Single Work</a></li>
+									</ul>-->
+									
+									
+									
+											
+		
+		<!-- NEWS
+		<section id="news">
+			<div class="container">
+				<h2><b>Clients</b> say about us</h2>
+				
+				
+				<div class="testimonials" data-appear-top-offset="-200" data-animated="fadeInUp">
+						
+					
+					<div class="owl-demo owl-carousel testim_slider">
+						
+					
+						<div class="item">
+							<div class="testim_content">“There is nothing scary in the darkness, if you encounter it face-to-face. The inevitable price we pay for our happiness is eternal fear to lose it. When you start thinking a lot about your past, it becomes your present and you can't see your future without it.”</div>
+							<div class="testim_author">—  Anna Balashova, <b>Philosopher</b></div>
+						</div>
+						
+						
+						<div class="item">
+							<div class="testim_content">“There is nothing scary in the darkness, if you encounter it face-to-face. The inevitable price we pay for our happiness is eternal fear to lose it. When you start thinking a lot about your past, it becomes your present and you can't see your future without it.”</div>
+							<div class="testim_author">—  Anna Balashova, <b>Philosopher</b></div>
+						</div>
+						
+						
+						<div class="item">
+							<div class="testim_content">“There is nothing scary in the darkness, if you encounter it face-to-face. The inevitable price we pay for our happiness is eternal fear to lose it. When you start thinking a lot about your past, it becomes your present and you can't see your future without it.”</div>
+							<div class="testim_author">—  Anna Balashova, <b>Philosopher</b></div>
+						</div>
+					</div>
+				</div> //TESTIMONIALS -->
+				
+				<!-- 
+				<div class="row recent_posts" data-appear-top-offset="-200" data-animated="fadeInUp">
+					<div class="col-lg-4 col-md-4 col-sm-4 padbot30 post_item_block">
+						<div class="post_item">
+							<div class="post_item_img">
+								<img src="images/blog/1.jpg" alt="" />
+								<a class="link" href="blog-post.html" ></a>
+							</div>
+							<div class="post_item_content">
+								<a class="title" href="blog-post.html" >Inteligent Transitions In UX Design</a>
+								<ul class="post_item_inf">
+									<li><a href="javascript:void(0);" >Anna</a> |</li>
+									<li><a href="javascript:void(0);" >Photography</a> |</li>
+									<li><a href="javascript:void(0);" >10 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 padbot30 post_item_block">
+						<div class="post_item">
+							<div class="post_item_img">
+								<img src="images/blog/2.jpg" alt="" />
+								<a class="link" href="blog-post.html"></a>
+							</div>
+							<div class="post_item_content">
+								<a class="title" href="blog-post.html" >Recent trends in storytelling</a>
+								<ul class="post_item_inf">
+									<li><a href="javascript:void(0);" >Anna</a> |</li>
+									<li><a href="javascript:void(0);" >Web Design</a> |</li>
+									<li><a href="javascript:void(0);" >No comment</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-4 col-md-4 col-sm-4 padbot30 post_item_block">
+						<div class="post_item">
+							<div class="post_item_img">
+								<img src="images/blog/3.jpg" alt="" />
+								<a class="link" href="blog-post.html"></a>
+							</div>
+							<div class="post_item_content">
+								<a class="title" href="blog-post.html" >Supernatural FX Showreel</a>
+								<ul class="post_item_inf">
+									<li><a href="javascript:void(0);" >Anna</a> |</li>
+									<li><a href="javascript:void(0);" >Creative</a> |</li>
+									<li><a href="javascript:void(0);" >3 Comments</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section> //NEWS -->
